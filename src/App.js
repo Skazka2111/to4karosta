@@ -19,7 +19,7 @@ function App() {
             <div className="mainBlock">
                 {currentPage === 0 && (
                     <Fragment>
-                        <img src={landing2} alt="landing" className="landingPicture" />
+                        <img src={landing} alt="landing" className="landingPicture" />
                         <div className="blockTexts">
                             <h2 className="title">Реклама в ТикТок для вашего бизнеса</h2>
                             <p>
