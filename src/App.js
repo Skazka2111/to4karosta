@@ -26,13 +26,13 @@ function App() {
                                 Выберите удобный мессенджер и получите предварительный расчет стоимости по вашему бизнесу
                             </p>
                             
-                            <a href={`https://salebot.site/r/2f6e18a8fbfe97787cfe8b30c748a836_1&utm_medium=${utm_medium}`} target="_blank" className="linkWithImage" rel="noreferrer">
+                            <a href={`https://salebot.site/r/2f6e18a8fbfe97787cfe8b30c748a836_1`} target="_blank" className="linkWithImage" rel="noreferrer">
                                 <img className="linkImage" src={telegram} alt="Telegram" />
                             </a>
-                            <a href={`https://salebot.site/r/2f6e18a8fbfe97787cfe8b30c748a836_2&utm_medium=${utm_medium}`} target="_blank" className="linkWithImage" rel="noreferrer">
+                            <a href={`https://salebot.site/r/2f6e18a8fbfe97787cfe8b30c748a836_2`} target="_blank" className="linkWithImage" rel="noreferrer">
                                 <img className="linkImage" src={viber} alt="Viber" />
                             </a>
-                            <a href={`https://salebot.site/r/2f6e18a8fbfe97787cfe8b30c748a836_6&utm_medium=${utm_medium}`} target="_blank" className="linkWithImage" rel="noreferrer">
+                            <a href={`https://salebot.site/r/2f6e18a8fbfe97787cfe8b30c748a836_6`} target="_blank" className="linkWithImage" rel="noreferrer">
                                 <img className="linkImage" src={whatsapp} alt="WhatsApp" />
                             </a>
                         </div>
