@@ -1,5 +1,5 @@
 import { useState, Fragment } from "react";
-import landing from "./assets/img/landing.jpg";
+import landing from "./assets/img/landing2.jpg";
 import copy from "./assets/img/copy.png";
 
 // Импорты всех картинок
