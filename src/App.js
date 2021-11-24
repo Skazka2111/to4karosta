@@ -17,7 +17,7 @@ function App() {
     return (
         <div className="application">
             <div className="mainBlock">
-                {currentPage === 0 ? (
+                {currentPage === 0 && (
                     <Fragment>
                         <img src={landing} alt="landing" className="landingPicture" />
                         <div className="blockTexts">
