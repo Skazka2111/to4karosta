@@ -32,9 +32,7 @@ function App() {
                             <a href={`https://salebot.site/r/2ed615c2cdf19ac0f62f4aff394087b6_2`} target="_blank" className="linkWithImage" rel="noreferrer">
                                 <img className="linkImage" src={viber} alt="Viber" />
                             </a>
-                            <a href={`https://salebot.site/r/2ed615c2cdf19ac0f62f4aff394087b6_6`} target="_blank" className="linkWithImage" rel="noreferrer">
-                                <img className="linkImage" src={whatsapp} alt="WhatsApp" />
-                            </a>
+                         
                         </div>
                     </Fragment>
                 )}
